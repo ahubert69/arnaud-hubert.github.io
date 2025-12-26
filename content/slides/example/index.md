@@ -15,7 +15,7 @@ slides:
 ---
 
 # Example Talk
-### Dr. Alex Johnson · Meta AI
+### Arnaud Hubert · PhD Candidate in Computational Neuroscience
 
 ---
 

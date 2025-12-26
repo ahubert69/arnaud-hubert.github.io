@@ -36,7 +36,7 @@ links:
     url: "https://scholar.google.com/citations?user=example"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-1825-0097"
-  - icon: "icons/custom/brands_gitlab.png"
+  - icon: "hero/globe"
     url: "https://gitlab.inria.fr/ahubert"
     label: "GitLab"
 interests:
