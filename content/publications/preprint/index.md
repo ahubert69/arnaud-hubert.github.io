@@ -1,81 +1,33 @@
 ---
-title: "An example preprint / working paper"
+title: "Preprint: Striatal endocannabinoid-long-term potentiation mediates one-shot learning"
 authors:
-- me
-date: "2019-04-07T00:00:00Z"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Large Language Models
-
-featured: true
-
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+  - me
+  - Charlotte Piette
+  - Sylvie Perez
+  - Hugues Berry
+  - Jonathan Touboul
+  - Laurent Venance
+author_notes:
+- ""
+- "First Author"
+date: 2024-07-10T00:00:00Z
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+  - type: pdf
+    url: https://www.biorxiv.org/content/10.1101/2024.07.10.602953v2.full.pdf
+  - type: source
+    url: https://www.biorxiv.org/content/10.1101/2024.07.10.602953v2
+publication_types:
+  - article
+publication: Striatal endocannabinoid-long-term potentiation mediates one-shot learning
+publication_short: ""
+abstract: One-shot learning, the ability to form memories after a single, brief salient event, is essential to adapt one’s behaviour in a dynamic world. However, how one-shot learning unfolds in the brain remains unknown. Challenges to elucidate its neural underpinnings stem experimentally from the scarcity of behavioral assays recapitulating one-shot learning in the laboratory, and conceptually from the limited number of neuronal plasticity mechanisms that could support learning after a small number of action potentials, as is common during a one-shot experience. Here, we overcome these challenges and identify a new mechanism for one-shot learning in dorsal striatum that relies on a non-classical form of plasticity, the endocannabinoid-mediated long-term potentiation (eCB-LTP). To do so, we develop a novel one-shot behavioral test, in which mice learn to avoid a sticky tape after a single, spontaneous and brief contact with the uncomfortable substrate, and maintain this memory for more than one month. We use the sticky tape avoidance test to demonstrate that striatal LTP emerges in vivo after one-shot learning; the observed patterns of activity in vivo suggest that eCB-LTP mediates one-shot learning, which we corroborate both ex vivo and through computational modeling. Consistent with this hypothesis, conditional knock-out mice abolishing eCB-LTP show impaired one-shot learning. These results highlight the importance of non-classical plasticity mechanisms in supporting memory formation after a single brief experience.
+summary: These results highlight the importance of endocannabinoid-mediated long-term potentiation plasticity mechanisms in supporting memory formation after a single brief experience in mice subject.
+tags:
+  - preprint
+featured: true
 slides: ""
+draft: true
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+>Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

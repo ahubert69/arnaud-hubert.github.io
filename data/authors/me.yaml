@@ -12,7 +12,7 @@ postnominals:
   - "PhD"
   - "Inria"
 status:
-  icon: "☕️"
+  icon: ""
 role: "PhD candidate"
 bio: "PhD candidate in the AistroSight team-project at the French National Institute for Research in Digital Science and Technology.
 
@@ -22,16 +22,16 @@ bio: "PhD candidate in the AistroSight team-project at the French National Insti
 
   My interest also includes theoretical approaches, such as incorporating heterogeneous synaptic coupling, and plasticity in mean-field models. "
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "AIstroSight, Inria"
+    url: "https://team.inria.fr/aistrosight/"
 links:
   - icon: "at-symbol"
     url: "mailto:arnaud.hubert@inria.fr"
     label: "E-mail Me"
   - icon: "brands/github"
-    url: "https://github.com/example"
+    url: "https://github.com/ahubert69"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
+    url: "https://www.linkedin.com/in/arnaud-hubert-6a4827197/"
   - icon: "academicons/google-scholar"
     url: "https://scholar.google.com/citations?user=example"
   - icon: "academicons/orcid"
@@ -40,10 +40,10 @@ links:
     url: "https://gitlab.inria.fr/ahubert"
     label: "GitLab"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Computational Neuroscience"
+  - "Fast Learning"
+  - "Neural Mean Field Models"
+  - "Synacomp"
 education:
   - degree: "Bachelor's degree in Mathematics"
     institution: "Nantes University, France"

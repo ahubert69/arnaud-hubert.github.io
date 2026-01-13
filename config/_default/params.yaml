@@ -8,9 +8,9 @@ hugoblox:
     organization: Inria, Claude-Bernard University
   theme:
     mode: system
-    pack: contrast
+    pack: minimal
     colors:
-      primary: orange
+      primary: ""
       secondary: ""
       neutral: ""
   typography:
