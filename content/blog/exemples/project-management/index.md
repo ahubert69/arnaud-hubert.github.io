@@ -24,6 +24,8 @@ cover:
     height: "80px"
   icon:
     name: "✨"
+
+draft: true
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!

@@ -24,6 +24,8 @@ cover:
     height: "80px"
   icon:
     name: "✨"
+
+draft: true
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.

@@ -36,7 +36,7 @@ tags:
   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Standard identifiers for auto-linking
 hugoblox:
@@ -79,6 +79,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+draft: true
 ---
 
 > [!NOTE]
