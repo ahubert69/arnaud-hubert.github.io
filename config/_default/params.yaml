@@ -10,9 +10,9 @@ hugoblox:
     mode: system
     pack: minimal
     colors:
-      primary: ""
-      secondary: ""
-      neutral: ""
+      primary: "orange"
+      secondary: "cyan"
+      neutral: "slate"
   typography:
     font: serif
     size: md
