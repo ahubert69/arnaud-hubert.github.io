@@ -9,7 +9,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -18,12 +18,16 @@ sections:
       button:
         text: Download CV
         url: uploads/AH_CV_25.pdf
-      show_education: false
+      #show_education: false
+      #show_interests: false
       headings:
         about: 'About Me'
         education: 'Education'
         interests: 'Interests'
     design:
+      spacing:
+        padding: ["6", "6", "6", "6"]
+      columns: "2"
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
