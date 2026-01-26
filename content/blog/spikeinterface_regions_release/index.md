@@ -1,6 +1,6 @@
 ---
 title: 🧠 Spikeinterface-regions out on gitlab 📊
-summary: Utilities to assign brain regions to SpikeInterface recordings based on per-shank depth boundaries.
+summary: "Spikeinterface-regions is now open-source and available on GitLab."
 date: 2025-01-16
 authors:
   - me
@@ -8,6 +8,9 @@ tags:
   - spikeinterface
   - gitlab
   - Open Science
+  - project
+  - release
+
 cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
   icon:
@@ -20,5 +23,7 @@ content_meta:
   trending: true
 ---
 
-Checkout now on [gitlab](https://gitlab.inria.fr/ahubert/spikeinterface-regions).
+Checkout the project
+[spikeinterface-regions](/project/spikeinterface_regions/).
+
 

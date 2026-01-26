@@ -72,14 +72,14 @@ skills:
     items:
       - label: "Python"
         level: 5
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
+#  - name: "Research & Communication"
+#    items:
+#      - label: "Academic Writing"
+#        level: 5
+#      - label: "Conference Presentations"
+#        level: 4
+#      - label: "Grant Proposals"
+#        level: 4
 languages:
   - name: "French"
     level: null
@@ -87,5 +87,5 @@ languages:
   - name: "English"
     level: null
     label: "B2"
-awards: []
-weight: null
+#awards: []
+#weight: null

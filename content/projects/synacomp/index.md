@@ -1,5 +1,5 @@
 ---
-title: 🧠 Synacomp out on gitlab 📊
+title: Synacomp
 summary: Synacomp is a Python package for applying arbitrary models to spike sorting data. It provides access to organized mouse data via a simple Mouse class and allows the user to perform calculations on this data using a chosen model.
 date: 2025-01-16
 authors:
