@@ -20,7 +20,7 @@ publishDate: '2024-07-10T00:00:00Z'
 publication_types: ['paper-conference']
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
