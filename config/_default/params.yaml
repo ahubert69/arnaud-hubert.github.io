@@ -41,5 +41,6 @@ hugoblox:
       enable: false
   search:
     enable: true
+    suggestions: []
   seo:
     title: arnaud-hubert
